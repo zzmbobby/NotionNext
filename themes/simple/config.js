@@ -1,6 +1,6 @@
 const CONFIG = {
 
-  SIMPLE_LOGO_IMG: '/Logo.webp',
+  SIMPLE_LOGO_IMG: 'https://tvax3.sinaimg.cn/crop.0.0.1080.1080.180/629d846dly8haupojr9fkj20u00u0410.jpg?KID=imgbed,tva&Expires=1723012245&ssig=8%2BBzRF%2B%2B%2Fi',
   SIMPLE_TOP_BAR: true, // 显示顶栏
   SIMPLE_TOP_BAR_CONTENT: process.env.NEXT_PUBLIC_THEME_SIMPLE_TOP_TIPS || '',
   SIMPLE_LOGO_DESCRIPTION: process.env.NEXT_PUBLIC_THEME_SIMPLE_LOGO_DESCRIPTION || '<div>互联网冲浪选手<br/>',
